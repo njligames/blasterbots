@@ -31,7 +31,7 @@
 }
 
 - (BOOL) shouldAutorotate {
-    return YES;
+    return NO;
 }
 
 - (void)didReceiveMemoryWarning {

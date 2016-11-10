@@ -120,7 +120,7 @@ public:
     void switchToNewUI();
     void loadOriginalUi();
 
-    void restart();
+    void restart(bool loadOriginalUi = true);
 
     void switchScene(const CCString &link, bool pause = false, bool restart = false, bool saveScores = false);
 

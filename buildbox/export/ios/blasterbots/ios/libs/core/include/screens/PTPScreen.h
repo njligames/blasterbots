@@ -3,6 +3,8 @@
 
 #include <cocos2d.h>
 
+#include <functional>
+
 #include "attributes/PTPAttribute.h"
 
 #define kRootLayerItemTag 0
@@ -85,6 +87,8 @@ public:
     void powerupButtonAction(CCObject* sender);
     void purchaseButtonAction(CCObject* sender);
 
+    void playCloseAnimation(std::function<void()> finishCallback = std::function<void()>());
+
 protected:
     PTModelScreen* _model;
 
@@ -93,7 +97,6 @@ protected:
 
     virtual void buttonAction(CCObject* pSender);
     virtual void onButtonPressed(PTModelObjectButton *button);
-    void callScheduledButton(float);
 
     void restorePurchasesButtonAction(CCObject* pSender);
     virtual void gameServicesButtonAction(CCObject* pSender);
@@ -114,6 +117,8 @@ protected:
 
     void setAnimationState( PTPAnimationState state );
 
+    void closeAnimationCallback(float);
+
 private:
     PTSoundController *_soundController;
 
@@ -123,10 +128,10 @@ private:
     CCLabelBMFont *_coinsSessionLabel;
     CCLabelBMFont *_coinsTotalLabel;
 
-    PTModelObjectButton *_scheduledButton;
-
     PTPAnimationState _animationState;
     float _currentTime;
+
+    std::function<void()> _closeAnimationCallback;
 };
 
 #endif // PTPSCREEN_H

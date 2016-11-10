@@ -144,10 +144,10 @@ public:
     void associateSpawnerWithCharacter(PTPObjectAsset* spawner, PTPObjectAsset* character);
     void removeAllSpawners();
 
-    void addKeyBinding( int keyCode, PTPObjectButton *button);
-    void removeKeyBinding( int keyCode, PTPObjectButton *button);
-    bool handleKeyPressOnScreen( int keyCode, PTPScreen *screenLayer );
-    bool handleKeyReleaseOnScreen( int keyCode, PTPScreen *screenLayer );
+    static void addKeyBinding( int keyCode, PTPObjectButton *button);
+    static void removeKeyBinding( int keyCode, PTPObjectButton *button);
+    static bool handleKeyPressOnScreen( int keyCode, PTPScreen *screenLayer );
+    static bool handleKeyReleaseOnScreen( int keyCode, PTPScreen *screenLayer );
 
     void actionSubscribe(PTPInputControllerAction actionId, CCObject *target, PTPActionPointerSender selector, unsigned int senderId = 0);
     void actionUnSubscribe( CCObject* target);
