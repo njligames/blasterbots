@@ -717,6 +717,22 @@
                     <string>3545</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>3754</string>
+                <key>sprites</key>
+                <array>
+                    <string>3755</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4025</string>
+                <key>sprites</key>
+                <array>
+                    <string>4026</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

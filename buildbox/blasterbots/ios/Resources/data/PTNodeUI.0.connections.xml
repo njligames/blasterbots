@@ -8,19 +8,19 @@
             <dict>
                 <key>id</key>
                 <string>99</string>
-                <key>Pause</key>
+                <key>Game Over</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>1895</string>
+                    <string>1907</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Game Over</key>
+                <key>Pause</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>1907</string>
+                    <string>1895</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -34,19 +34,10 @@
             <dict>
                 <key>id</key>
                 <string>1868</string>
-                <key>Start</key>
+                <key>Navigation Button</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>1332</string>
-                    <key>attributeName</key>
-                    <string>Load</string>
-                    <key>isAction</key>
-                    <string>true</string>
-                </dict>
-                <key>Info Screen</key>
-                <dict>
-                    <key>connectedModelId</key>
-                    <string>1879</string>
+                    <string>3133</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
@@ -61,10 +52,19 @@
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Navigation Button</key>
+                <key>Info Screen</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>3133</string>
+                    <string>1879</string>
+                    <key>attributeName</key>
+                    <string>Load</string>
+                    <key>isAction</key>
+                    <string>true</string>
+                </dict>
+                <key>Start</key>
+                <dict>
+                    <key>connectedModelId</key>
+                    <string>1332</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>

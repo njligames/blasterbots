@@ -110,26 +110,6 @@
                     <key>value</key>
                     <string>icon_add_locator@2x</string>
                 </dict>
-                <key>Brightness</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>duration</key>
                 <string>0.033333</string>
                 <key>animationSpeed</key>
@@ -145,26 +125,6 @@
                     <key>value</key>
                     <string>Particle</string>
                 </dict>
-                <key>Brightness</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>duration</key>
                 <string>0.033333</string>
                 <key>animationSpeed</key>
@@ -179,26 +139,6 @@
                 <dict>
                     <key>value</key>
                     <string>Coins</string>
-                </dict>
-                <key>Brightness</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -1414,6 +1354,56 @@
                 <dict>
                     <key>value</key>
                     <string>large_circle_default</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3754</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Emitter</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4025</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Emitter</string>
+                </dict>
+                <key>Brightness</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Contrast</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Hue</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Saturation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
