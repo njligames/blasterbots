@@ -4681,6 +4681,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -4693,7 +4702,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4774,7 +4783,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4843,15 +4852,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -4864,7 +4864,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>

@@ -185,11 +185,13 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>4131</string>
+                <string>4221</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
+                        <key>leaderboardId</key>
+                        <string>distance</string>
                         <key>bundleID</key>
                         <string>com.njligames.blasterbots</string>
                         <key>nameOnDevice</key>
