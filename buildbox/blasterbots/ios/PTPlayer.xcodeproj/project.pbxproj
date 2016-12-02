@@ -1141,7 +1141,7 @@
 					"\"$(SRCROOT)/libs/box2d\"",
 				);
 				INFOPLIST_FILE = "PTPlayer-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/libs/cocos2dx",
@@ -1199,7 +1199,7 @@
 					"\"$(SRCROOT)/libs/box2d\"",
 				);
 				INFOPLIST_FILE = "PTPlayer-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/libs/cocos2dx",

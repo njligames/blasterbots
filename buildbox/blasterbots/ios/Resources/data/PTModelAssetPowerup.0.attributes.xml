@@ -29,7 +29,7 @@
                     <key>points</key>
                     <array>
                         <string>{0.000000,0.000000}</string>
-                        <string>{98.000000,8.000000}</string>
+                        <string>{89.000000,9.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -39,17 +39,32 @@
                 <key>Powerup Type</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupNone</string>
+                    <string>kPowerupCoin</string>
                 </dict>
                 <key>Animation Placement</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupCharacterConstraint</string>
+                    <string>kPowerupFreeConstraint</string>
                 </dict>
                 <key>Animation Behaviour</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kOverlayBehaviour</string>
+                    <string>kReplaceBehaviour</string>
+                </dict>
+                <key>Reward Coins</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Show points reward</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Duration</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -222,9 +237,9 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{0.500000,-90.000000}</string>
-                        <string>{103.500000,83.000000}</string>
-                        <string>{-100.500000,84.000000}</string>
+                        <string>{0.500000,-77.000000}</string>
+                        <string>{92.500000,76.000000}</string>
+                        <string>{-91.500000,78.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -234,17 +249,32 @@
                 <key>Powerup Type</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupNone</string>
+                    <string>kPowerupCoin</string>
                 </dict>
                 <key>Animation Placement</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupCharacterConstraint</string>
+                    <string>kPowerupFreeConstraint</string>
                 </dict>
                 <key>Animation Behaviour</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kOverlayBehaviour</string>
+                    <string>kReplaceBehaviour</string>
+                </dict>
+                <key>Reward Coins</key>
+                <dict>
+                    <key>value</key>
+                    <string>3.000000</string>
+                </dict>
+                <key>Show points reward</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Duration</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -417,10 +447,10 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-103.000000,-102.000000}</string>
-                        <string>{100.000000,-102.000000}</string>
-                        <string>{100.000000,102.000000}</string>
-                        <string>{-101.000000,101.000000}</string>
+                        <string>{-93.000000,-89.000000}</string>
+                        <string>{91.000000,-91.000000}</string>
+                        <string>{92.000000,92.000000}</string>
+                        <string>{-89.000000,92.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -430,17 +460,32 @@
                 <key>Powerup Type</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupNone</string>
+                    <string>kPowerupCoin</string>
                 </dict>
                 <key>Animation Placement</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupCharacterConstraint</string>
+                    <string>kPowerupFreeConstraint</string>
                 </dict>
                 <key>Animation Behaviour</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kOverlayBehaviour</string>
+                    <string>kReplaceBehaviour</string>
+                </dict>
+                <key>Reward Coins</key>
+                <dict>
+                    <key>value</key>
+                    <string>5.000000</string>
+                </dict>
+                <key>Show points reward</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Duration</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>

@@ -13,6 +13,11 @@
                     <key>value</key>
                     <string>2290</string>
                 </dict>
+                <key>Start Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4312</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -22,6 +27,11 @@
                     <key>value</key>
                     <string>2301</string>
                 </dict>
+                <key>Start Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4364</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -30,6 +40,11 @@
                 <dict>
                     <key>value</key>
                     <string>2312</string>
+                </dict>
+                <key>Start Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4344</string>
                 </dict>
             </dict>
         </array>
