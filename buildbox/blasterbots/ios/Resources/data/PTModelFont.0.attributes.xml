@@ -24,16 +24,36 @@
                 <dict>
                     <key>value</key>
                     <string>70.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Shadow Offset</key>
                 <dict>
                     <key>value</key>
                     <string>{3.000,-3.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Canvas size</key>
                 <dict>
                     <key>value</key>
                     <string>{512.000,512.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Padding</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stroke Width</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Main Color</key>
                 <dict>

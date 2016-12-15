@@ -21,15 +21,11 @@
                 <dict>
                     <key>value</key>
                     <string>1000.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Sides Deletion Threshold</key>
                 <dict>
                     <key>value</key>
                     <string>700.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
             </dict>
         </array>

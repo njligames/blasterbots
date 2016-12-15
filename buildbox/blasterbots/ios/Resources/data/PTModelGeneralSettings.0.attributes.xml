@@ -42,7 +42,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>value</key>
-                    <string>1477503313</string>
+                    <string>1478094958</string>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -185,13 +185,37 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>4767</string>
+                <string>4862</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
                         <key>leaderboardId</key>
                         <string>distance</string>
+                        <key>charboostID</key>
+                        <string>5852f57243150f584f04f247</string>
+                        <key>charboostSignature</key>
+                        <string>66d6fedeab02a2a11caa4bdf8933576e535729b8</string>
+                        <key>revMob</key>
+                        <string>5852f83b606c38bf6ed2e6c0</string>
+                        <key>appLovin</key>
+                        <string>rFgH1LGOiVDxPTvxecdvDU8m5tsaKSOAh4RkPi77CK3ctyXWZAPneTWlPNKlqiwWoLEB2LJEfMsXIN2sXScB_8</string>
+                        <key>leadBolt</key>
+                        <string>1wVyzEep0qpxDYmTCbD1b9XKpmIZlyQd</string>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-3364689439929882/6728977659</string>
+                        <key>adMobInterstitial</key>
+                        <string>ca-app-pub-3364689439929882/8205710854</string>
+                        <key>heyZap</key>
+                        <string>a5b885329730bbec208cab055143b24f</string>
+                        <key>facebookInterstitial</key>
+                        <string>1136441716454186_1136443003120724</string>
+                        <key>facebookBanner</key>
+                        <string>1136441716454186_1136444006453957</string>
+                        <key>bannersOrder</key>
+                        <string>kFacebook,kAdMob,kRevMob</string>
+                        <key>interstitialsOrder</key>
+                        <string>kFacebook,kAdMob,kAppLovin,kRevMob</string>
                         <key>bundleID</key>
                         <string>com.njligames.blasterbots</string>
                         <key>nameOnDevice</key>
@@ -216,6 +240,30 @@
                         <string>com.njligames.blasterbots</string>
                         <key>nameOnDevice</key>
                         <string>BlasterBots</string>
+                        <key>charboostID</key>
+                        <string>5852f57243150f584f04f249</string>
+                        <key>charboostSignature</key>
+                        <string>805d8b68f9fa165adc4abbbc3b7bb64b80f64fe9</string>
+                        <key>revMob</key>
+                        <string>5852f8084beee1746e48ee17</string>
+                        <key>appLovin</key>
+                        <string>rFgH1LGOiVDxPTvxecdvDU8m5tsaKSOAh4RkPi77CK3ctyXWZAPneTWlPNKlqiwWoLEB2LJEfMsXIN2sXScB_8</string>
+                        <key>leadBolt</key>
+                        <string>JS1OTGyEs4bqEWPIYXaDjhwjV3X5JMXa</string>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-3364689439929882/2298778050</string>
+                        <key>adMobInterstitial</key>
+                        <string>ca-app-pub-3364689439929882/3775511256</string>
+                        <key>heyZap</key>
+                        <string>a5b885329730bbec208cab055143b24f</string>
+                        <key>facebookInterstitial</key>
+                        <string>1136441716454186_1136443003120724</string>
+                        <key>facebookBanner</key>
+                        <string>1136441716454186_1136444006453957</string>
+                        <key>bannersOrder</key>
+                        <string>kFacebook,kAdMob,kRevMob</string>
+                        <key>interstitialsOrder</key>
+                        <string>kFacebook,kAdMob,kAppLovin,kRevMob</string>
                     </dict>
                     <key>Amazon App Store</key>
                     <dict>
@@ -266,7 +314,7 @@
                 <key>objectFrameRect</key>
                 <string>{{0.0000,0.0000},{0.4200,1.0000}}</string>
                 <key>_ibVersion</key>
-                <string>2.2.6</string>
+                <string>2.2.7</string>
                 <key>t</key>
                 <string>0</string>
                 <key>orientation</key>

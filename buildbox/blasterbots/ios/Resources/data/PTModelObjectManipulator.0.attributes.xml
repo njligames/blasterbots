@@ -50,6 +50,11 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Control Style</key>
                 <dict>
                     <key>selectedStringValue</key>

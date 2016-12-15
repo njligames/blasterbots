@@ -16,7 +16,7 @@
                     <string>Character</string>
                 </dict>
                 <key>pos</key>
-                <string>{1968.00,434.00}</string>
+                <string>{834.00,1954.00}</string>
                 <key>offset</key>
                 <string>{0.00,1.00}</string>
                 <key>size</key>
@@ -37,7 +37,7 @@
                     <string>Character</string>
                 </dict>
                 <key>pos</key>
-                <string>{1964.00,320.00}</string>
+                <string>{901.00,1954.00}</string>
                 <key>offset</key>
                 <string>{0.00,1.00}</string>
                 <key>size</key>
@@ -184,7 +184,7 @@
                     <string>pause_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1932.00,644.00}</string>
+                <string>{1950.00,0.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -247,7 +247,7 @@
                     <string>start_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{644.00,644.00}</string>
+                <string>{1140.00,434.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -268,7 +268,7 @@
                     <string>back_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{876.00,1836.00}</string>
+                <string>{988.00,1836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -289,7 +289,7 @@
                     <string>info_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1964.00,237.00}</string>
+                <string>{282.00,1954.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -310,7 +310,7 @@
                     <string>pause_logo</string>
                 </dict>
                 <key>pos</key>
-                <string>{1427.00,1718.00}</string>
+                <string>{567.00,1836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -331,7 +331,7 @@
                     <string>continue_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{644.00,1718.00}</string>
+                <string>{0.00,1718.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -352,7 +352,7 @@
                     <string>main_menu_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1718.00}</string>
+                <string>{644.00,1718.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -394,7 +394,7 @@
                     <string>restart_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1836.00}</string>
+                <string>{1288.00,1718.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -415,7 +415,7 @@
                     <string>orange</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1020.00}</string>
+                <string>{1660.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -457,7 +457,7 @@
                     <string>orange</string>
                 </dict>
                 <key>pos</key>
-                <string>{1118.00,1388.00}</string>
+                <string>{1486.00,1388.00}</string>
                 <key>offset</key>
                 <string>{1.00,1.00}</string>
                 <key>size</key>
@@ -478,7 +478,7 @@
                     <string>orange</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,836.00}</string>
+                <string>{368.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -499,7 +499,7 @@
                     <string>orange</string>
                 </dict>
                 <key>pos</key>
-                <string>{555.00,1388.00}</string>
+                <string>{370.00,1388.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -520,7 +520,7 @@
                     <string>orange</string>
                 </dict>
                 <key>pos</key>
-                <string>{738.00,836.00}</string>
+                <string>{1594.00,237.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -541,7 +541,7 @@
                     <string>orange</string>
                 </dict>
                 <key>pos</key>
-                <string>{549.00,1562.00}</string>
+                <string>{366.00,1562.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -562,7 +562,7 @@
                     <string>blue</string>
                 </dict>
                 <key>pos</key>
-                <string>{1106.00,836.00}</string>
+                <string>{1778.00,237.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -625,7 +625,7 @@
                     <string>blue</string>
                 </dict>
                 <key>pos</key>
-                <string>{184.00,1020.00}</string>
+                <string>{1106.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -646,7 +646,7 @@
                     <string>blue</string>
                 </dict>
                 <key>pos</key>
-                <string>{370.00,1388.00}</string>
+                <string>{555.00,1388.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -667,7 +667,7 @@
                     <string>blue</string>
                 </dict>
                 <key>pos</key>
-                <string>{738.00,1020.00}</string>
+                <string>{1476.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -688,7 +688,7 @@
                     <string>blue</string>
                 </dict>
                 <key>pos</key>
-                <string>{366.00,1562.00}</string>
+                <string>{0.00,1562.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -709,7 +709,7 @@
                     <string>green</string>
                 </dict>
                 <key>pos</key>
-                <string>{1658.00,1020.00}</string>
+                <string>{1844.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -730,7 +730,7 @@
                     <string>voilet</string>
                 </dict>
                 <key>pos</key>
-                <string>{1842.00,1020.00}</string>
+                <string>{184.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -751,7 +751,7 @@
                     <string>violet</string>
                 </dict>
                 <key>pos</key>
-                <string>{183.00,1562.00}</string>
+                <string>{549.00,1562.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -772,7 +772,7 @@
                     <string>voilet</string>
                 </dict>
                 <key>pos</key>
-                <string>{184.00,1204.00}</string>
+                <string>{368.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -793,7 +793,7 @@
                     <string>white</string>
                 </dict>
                 <key>pos</key>
-                <string>{368.00,1204.00}</string>
+                <string>{1766.00,0.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -814,7 +814,7 @@
                     <string>red</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1388.00}</string>
+                <string>{185.00,1388.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -835,7 +835,7 @@
                     <string>red</string>
                 </dict>
                 <key>pos</key>
-                <string>{1486.00,1388.00}</string>
+                <string>{1302.00,1388.00}</string>
                 <key>offset</key>
                 <string>{1.00,1.00}</string>
                 <key>size</key>
@@ -856,7 +856,7 @@
                     <string>red</string>
                 </dict>
                 <key>pos</key>
-                <string>{1106.00,1204.00}</string>
+                <string>{1288.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -877,7 +877,7 @@
                     <string>red</string>
                 </dict>
                 <key>pos</key>
-                <string>{736.00,1204.00}</string>
+                <string>{1472.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -898,7 +898,7 @@
                     <string>yellow</string>
                 </dict>
                 <key>pos</key>
-                <string>{185.00,1388.00}</string>
+                <string>{0.00,1388.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -919,7 +919,7 @@
                     <string>yellow</string>
                 </dict>
                 <key>pos</key>
-                <string>{1302.00,1388.00}</string>
+                <string>{1118.00,1388.00}</string>
                 <key>offset</key>
                 <string>{1.00,1.00}</string>
                 <key>size</key>
@@ -940,7 +940,7 @@
                     <string>yellow</string>
                 </dict>
                 <key>pos</key>
-                <string>{1288.00,1204.00}</string>
+                <string>{1106.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -961,7 +961,7 @@
                     <string>yellow</string>
                 </dict>
                 <key>pos</key>
-                <string>{1594.00,237.00}</string>
+                <string>{920.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -982,7 +982,7 @@
                     <string>white</string>
                 </dict>
                 <key>pos</key>
-                <string>{1784.00,434.00}</string>
+                <string>{920.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1003,7 +1003,7 @@
                     <string>large_circle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{554.00,836.00}</string>
+                <string>{736.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1045,7 +1045,7 @@
                     <string>large_circle_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{1766.00,0.00}</string>
+                <string>{738.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1108,7 +1108,7 @@
                     <string>medium_circle_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{554.00,1020.00}</string>
+                <string>{0.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1150,7 +1150,7 @@
                     <string>small_circle_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{1848.00,1718.00}</string>
+                <string>{1875.00,1836.00}</string>
                 <key>offset</key>
                 <string>{45.00,45.00}</string>
                 <key>size</key>
@@ -1171,7 +1171,7 @@
                     <string>small_circle_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{922.00,1204.00}</string>
+                <string>{1784.00,434.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1213,7 +1213,7 @@
                     <string>large_triangle_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1562.00}</string>
+                <string>{183.00,1562.00}</string>
                 <key>offset</key>
                 <string>{0.00,14.00}</string>
                 <key>size</key>
@@ -1234,7 +1234,7 @@
                     <string>large_triangle_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{552.00,1204.00}</string>
+                <string>{554.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1276,7 +1276,7 @@
                     <string>medium_triangle_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{1888.00,1562.00}</string>
+                <string>{0.00,1836.00}</string>
                 <key>offset</key>
                 <string>{23.00,34.00}</string>
                 <key>size</key>
@@ -1297,7 +1297,7 @@
                     <string>medium_triangle_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1204.00}</string>
+                <string>{1292.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1318,7 +1318,7 @@
                     <string>small_triangle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1813.00,1836.00}</string>
+                <string>{365.00,1954.00}</string>
                 <key>offset</key>
                 <string>{45.00,52.00}</string>
                 <key>size</key>
@@ -1339,7 +1339,7 @@
                     <string>small_triangle_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{1907.00,1836.00}</string>
+                <string>{553.00,1954.00}</string>
                 <key>offset</key>
                 <string>{45.00,52.00}</string>
                 <key>size</key>
@@ -1360,7 +1360,7 @@
                     <string>small_triangle_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{1474.00,1020.00}</string>
+                <string>{1104.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1381,7 +1381,7 @@
                     <string>large_square_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1290.00,1020.00}</string>
+                <string>{1288.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1402,7 +1402,7 @@
                     <string>large_square_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{1106.00,1020.00}</string>
+                <string>{368.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1423,7 +1423,7 @@
                     <string>large_square_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{922.00,1020.00}</string>
+                <string>{552.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1444,7 +1444,7 @@
                     <string>medium_square_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1193.00,1562.00}</string>
+                <string>{1332.00,1562.00}</string>
                 <key>offset</key>
                 <string>{23.00,23.00}</string>
                 <key>size</key>
@@ -1465,7 +1465,7 @@
                     <string>medium_square_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{1332.00,1562.00}</string>
+                <string>{1471.00,1562.00}</string>
                 <key>offset</key>
                 <string>{23.00,23.00}</string>
                 <key>size</key>
@@ -1486,7 +1486,7 @@
                     <string>medium_square_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{370.00,1020.00}</string>
+                <string>{736.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1507,7 +1507,7 @@
                     <string>small_square_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1942.00,1718.00}</string>
+                <string>{188.00,1954.00}</string>
                 <key>offset</key>
                 <string>{45.00,45.00}</string>
                 <key>size</key>
@@ -1528,7 +1528,7 @@
                     <string>small_square_disabled</string>
                 </dict>
                 <key>pos</key>
-                <string>{1531.00,1836.00}</string>
+                <string>{1932.00,1718.00}</string>
                 <key>offset</key>
                 <string>{45.00,45.00}</string>
                 <key>size</key>
@@ -1549,7 +1549,7 @@
                     <string>small_square_selected</string>
                 </dict>
                 <key>pos</key>
-                <string>{1842.00,836.00}</string>
+                <string>{184.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1570,7 +1570,7 @@
                     <string>unlock_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1658.00,836.00}</string>
+                <string>{0.00,1204.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1591,7 +1591,7 @@
                     <string>unlock_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1474.00,836.00}</string>
+                <string>{1842.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1612,7 +1612,7 @@
                     <string>large_circle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1290.00,836.00}</string>
+                <string>{1658.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1633,7 +1633,7 @@
                     <string>medium_circle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1471.00,1562.00}</string>
+                <string>{1610.00,1562.00}</string>
                 <key>offset</key>
                 <string>{23.00,23.00}</string>
                 <key>size</key>
@@ -1654,7 +1654,7 @@
                     <string>small_circle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1625.00,1836.00}</string>
+                <string>{94.00,1954.00}</string>
                 <key>offset</key>
                 <string>{45.00,45.00}</string>
                 <key>size</key>
@@ -1696,7 +1696,7 @@
                     <string>medium_triangle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1288.00,1718.00}</string>
+                <string>{1888.00,1562.00}</string>
                 <key>offset</key>
                 <string>{23.00,34.00}</string>
                 <key>size</key>
@@ -1717,7 +1717,7 @@
                     <string>small_triangle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,1954.00}</string>
+                <string>{459.00,1954.00}</string>
                 <key>offset</key>
                 <string>{45.00,52.00}</string>
                 <key>size</key>
@@ -1738,7 +1738,7 @@
                     <string>large_square_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{186.00,836.00}</string>
+                <string>{552.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1759,7 +1759,7 @@
                     <string>medium_square_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1610.00,1562.00}</string>
+                <string>{1193.00,1562.00}</string>
                 <key>offset</key>
                 <string>{23.00,23.00}</string>
                 <key>size</key>
@@ -1780,7 +1780,7 @@
                     <string>small_square_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1719.00,1836.00}</string>
+                <string>{0.00,1954.00}</string>
                 <key>offset</key>
                 <string>{45.00,45.00}</string>
                 <key>size</key>
@@ -1801,7 +1801,7 @@
                     <string>large_circle_default</string>
                 </dict>
                 <key>pos</key>
-                <string>{1780.00,237.00}</string>
+                <string>{0.00,1020.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1927,7 +1927,7 @@
                     <string>title</string>
                 </dict>
                 <key>pos</key>
-                <string>{1108.00,1836.00}</string>
+                <string>{1452.00,1836.00}</string>
                 <key>offset</key>
                 <string>{26.00,57.00}</string>
                 <key>size</key>
@@ -1948,7 +1948,7 @@
                     <string>start_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1288.00,644.00}</string>
+                <string>{0.00,644.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -1990,7 +1990,7 @@
                     <string>back_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{644.00,1836.00}</string>
+                <string>{1220.00,1836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -2011,7 +2011,7 @@
                     <string>pause_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1950.00,0.00}</string>
+                <string>{1932.00,644.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -2053,7 +2053,7 @@
                     <string>mainmenu_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{0.00,644.00}</string>
+                <string>{644.00,644.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -2074,7 +2074,7 @@
                     <string>restart_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{1140.00,434.00}</string>
+                <string>{1288.00,644.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -2137,7 +2137,7 @@
                     <string>pause</string>
                 </dict>
                 <key>pos</key>
-                <string>{94.00,1954.00}</string>
+                <string>{968.00,1954.00}</string>
                 <key>offset</key>
                 <string>{8.00,27.00}</string>
                 <key>size</key>
@@ -2221,7 +2221,7 @@
                     <string>unlock_button</string>
                 </dict>
                 <key>pos</key>
-                <string>{370.00,836.00}</string>
+                <string>{184.00,836.00}</string>
                 <key>offset</key>
                 <string>{0.00,0.00}</string>
                 <key>size</key>
@@ -2272,6 +2272,279 @@
                 <string>{1024.00,1024.00}</string>
                 <key>sourceRect</key>
                 <string>{{0.00,0.00},{0.00,0.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4769</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>title</string>
+                </dict>
+                <key>pos</key>
+                <string>{139.00,1836.00}</string>
+                <key>offset</key>
+                <string>{20.00,60.00}</string>
+                <key>size</key>
+                <string>{424.00,112.00}</string>
+                <key>sourceSize</key>
+                <string>{458.00,230.00}</string>
+                <key>sourceRect</key>
+                <string>{{20.00,60.00},{424.00,112.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4788</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>music_on_button_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{1968.00,434.00}</string>
+                <key>offset</key>
+                <string>{11.00,5.00}</string>
+                <key>size</key>
+                <string>{60.00,71.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{11.00,5.00},{60.00,71.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4792</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>music_off_button_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{647.00,1954.00}</string>
+                <key>offset</key>
+                <string>{10.00,5.00}</string>
+                <key>size</key>
+                <string>{69.00,71.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{10.00,5.00},{69.00,71.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4799</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>highscores_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{1393.00,1954.00}</string>
+                <key>offset</key>
+                <string>{1.00,14.00}</string>
+                <key>size</key>
+                <string>{81.00,53.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{1.00,14.00},{81.00,53.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4803</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>highscores_touch</string>
+                </dict>
+                <key>pos</key>
+                <string>{1478.00,1954.00}</string>
+                <key>offset</key>
+                <string>{1.00,14.00}</string>
+                <key>size</key>
+                <string>{81.00,53.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{1.00,14.00},{81.00,53.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4807</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>info_button_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{1962.00,237.00}</string>
+                <key>offset</key>
+                <string>{3.00,1.00}</string>
+                <key>size</key>
+                <string>{79.00,79.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{3.00,1.00},{79.00,79.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4813</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>info_button_touch</string>
+                </dict>
+                <key>pos</key>
+                <string>{1962.00,320.00}</string>
+                <key>offset</key>
+                <string>{3.00,1.00}</string>
+                <key>size</key>
+                <string>{79.00,79.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{3.00,1.00},{79.00,79.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4822</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>like_button_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{720.00,1954.00}</string>
+                <key>offset</key>
+                <string>{19.00,14.00}</string>
+                <key>size</key>
+                <string>{53.00,63.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{19.00,14.00},{53.00,63.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4826</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>like_button_touch</string>
+                </dict>
+                <key>pos</key>
+                <string>{777.00,1954.00}</string>
+                <key>offset</key>
+                <string>{19.00,14.00}</string>
+                <key>size</key>
+                <string>{53.00,63.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{19.00,14.00},{53.00,63.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4833</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>music_on_button_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{1968.00,509.00}</string>
+                <key>offset</key>
+                <string>{11.00,5.00}</string>
+                <key>size</key>
+                <string>{60.00,71.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{11.00,5.00},{60.00,71.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4837</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>music_off_button_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{1969.00,1836.00}</string>
+                <key>offset</key>
+                <string>{10.00,5.00}</string>
+                <key>size</key>
+                <string>{69.00,71.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{10.00,5.00},{69.00,71.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4844</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>highscores_default</string>
+                </dict>
+                <key>pos</key>
+                <string>{1563.00,1954.00}</string>
+                <key>offset</key>
+                <string>{1.00,14.00}</string>
+                <key>size</key>
+                <string>{81.00,53.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{1.00,14.00},{81.00,53.00}}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4848</string>
+                <key>className</key>
+                <string>PTModelSprite</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>highscores_touch</string>
+                </dict>
+                <key>pos</key>
+                <string>{1648.00,1954.00}</string>
+                <key>offset</key>
+                <string>{1.00,14.00}</string>
+                <key>size</key>
+                <string>{81.00,53.00}</string>
+                <key>sourceSize</key>
+                <string>{84.00,81.00}</string>
+                <key>sourceRect</key>
+                <string>{{1.00,14.00},{81.00,53.00}}</string>
             </dict>
         </array>
     </dict>
