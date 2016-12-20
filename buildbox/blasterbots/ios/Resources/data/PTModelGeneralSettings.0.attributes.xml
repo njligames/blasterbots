@@ -42,7 +42,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>value</key>
-                    <string>1478094958</string>
+                    <string>1481118041</string>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
@@ -185,7 +185,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>4862</string>
+                <string>11357</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -221,9 +221,9 @@
                         <key>nameOnDevice</key>
                         <string>BlasterBots</string>
                         <key>shareMessageTemplate</key>
-                        <string></string>
+                        <string>Share our game!</string>
                         <key>reviewLink</key>
-                        <string></string>
+                        <string>https://www.facebook.com/Navitudes/</string>
                     </dict>
                     <key>Apple Mac App Store</key>
                     <dict>
@@ -234,12 +234,6 @@
                     </dict>
                     <key>Google Play Store</key>
                     <dict>
-                        <key>reviewLink</key>
-                        <string></string>
-                        <key>bundleID</key>
-                        <string>com.njligames.blasterbots</string>
-                        <key>nameOnDevice</key>
-                        <string>BlasterBots</string>
                         <key>charboostID</key>
                         <string>5852f57243150f584f04f249</string>
                         <key>charboostSignature</key>
@@ -264,6 +258,14 @@
                         <string>kFacebook,kAdMob,kRevMob</string>
                         <key>interstitialsOrder</key>
                         <string>kFacebook,kAdMob,kAppLovin,kRevMob</string>
+                        <key>bundleID</key>
+                        <string>com.njligames.blasterbots</string>
+                        <key>nameOnDevice</key>
+                        <string>BlasterBots</string>
+                        <key>shareMessageTemplate</key>
+                        <string>Share our game!</string>
+                        <key>reviewLink</key>
+                        <string>https://www.facebook.com/Navitudes/</string>
                     </dict>
                     <key>Amazon App Store</key>
                     <dict>
@@ -314,7 +316,7 @@
                 <key>objectFrameRect</key>
                 <string>{{0.0000,0.0000},{0.4200,1.0000}}</string>
                 <key>_ibVersion</key>
-                <string>2.2.7</string>
+                <string>2.2.8</string>
                 <key>t</key>
                 <string>0</string>
                 <key>orientation</key>

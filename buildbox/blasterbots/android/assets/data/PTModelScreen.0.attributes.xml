@@ -96,12 +96,22 @@
                 <key>Ad Interstitial</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
+                    <string>kFacebook</string>
                 </dict>
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
+                    <string>kFacebook</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Ad Banner Freq.</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -140,16 +150,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
-                </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -227,16 +227,6 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -268,22 +258,12 @@
                 <key>Ad Interstitial</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
+                    <string>kAdMob</string>
                 </dict>
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
-                </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <string>kAdMob</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>

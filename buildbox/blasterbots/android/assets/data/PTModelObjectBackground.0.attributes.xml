@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>2557</string>
+                <string>5726</string>
                 <key>className</key>
                 <string>PTModelObjectBackground</string>
                 <key>Name</key>
@@ -18,7 +18,70 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,456.347}</string>
+                    <string>{503.103,3600.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.000,60.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Tiling Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>-100</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11321</string>
+                <key>className</key>
+                <string>PTModelObjectBackground</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>white</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,568.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -49,6 +112,16 @@
                     <string>0</string>
                 </dict>
                 <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Tiling Offset</key>
                 <dict>
                     <key>animations</key>
                     <array/>

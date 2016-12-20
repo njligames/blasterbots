@@ -21,16 +21,22 @@
                 <dict>
                     <key>value</key>
                     <string>2.800000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Force Max</key>
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Force Increase</key>
                 <dict>
                     <key>value</key>
                     <string>0.002000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
             </dict>
         </array>

@@ -160,6 +160,83 @@
                     <string>0</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>5542</string>
+                <key>className</key>
+                <string>PTModelFont</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlasterBots</string>
+                </dict>
+                <key>Font name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Blaster Eternal</string>
+                </dict>
+                <key>Font size</key>
+                <dict>
+                    <key>value</key>
+                    <string>80.000000</string>
+                    <key>variableValue</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Shadow Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{3.000,-3.000}</string>
+                </dict>
+                <key>Canvas size</key>
+                <dict>
+                    <key>value</key>
+                    <string>{512.000,512.000}</string>
+                </dict>
+                <key>Main Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>0.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Gradient Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>0.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Stroke Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Shadow Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>0.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>125.000000</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

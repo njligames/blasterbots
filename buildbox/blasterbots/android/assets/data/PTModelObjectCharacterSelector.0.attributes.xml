@@ -295,33 +295,20 @@
                     <key>animationsY</key>
                     <array/>
                 </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{6.309,2.968}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -330,16 +317,13 @@
                 </dict>
                 <key>Label Visibility</key>
                 <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Label Vertical Spacing</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
+                    <key>value</key>
+                    <string>0</string>
                 </dict>
                 <key>Label Name</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
@@ -347,11 +331,9 @@
                 <dict>
                     <key>value</key>
                     <string>200.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>8</string>
             </dict>
         </array>
     </dict>

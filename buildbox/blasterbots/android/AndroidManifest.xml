@@ -26,13 +26,13 @@
             </intent-filter>
         </activity>
         
-<!-- FACEBOOK SDK --><!--
+<!-- FACEBOOK SDK -->
         <activity android:name="com.facebook.ads.InterstitialAdActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"/>
---><!-- FACEBOOK SDK -->
+<!-- FACEBOOK SDK -->
 
-<!-- ADMOB --><!--	
+<!-- ADMOB -->	
         <activity android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent" />
@@ -40,40 +40,38 @@
              android:name="com.vungle.publisher.FullScreenAdActivity"
              android:configChanges="keyboardHidden|orientation|screenSize"
              android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
---><!-- ADMOB -->         
+<!-- ADMOB -->         
 
 <!-- HEYZAP --><!--
-        <activity android:name="com.heyzap.sdk.ads.HeyzapInterstitialActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize" />
-        <activity android:name="com.heyzap.sdk.ads.HeyzapVideoActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize" />
-        <activity android:name="com.heyzap.sdk.ads.HeyzapProxyActivity" />
-        <activity android:name="com.heyzap.sdk.ads.VASTActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize" />
-        <activity android:name="com.heyzap.sdk.ads.MediationTestActivity" />
-        <receiver android:name="com.heyzap.sdk.ads.PackageAddedReceiver">
-            <intent-filter>
-                <data android:scheme="package"/>
-                <action android:name="android.intent.action.PACKAGE_ADDED"/>
-            </intent-filter>
-        </receiver>
+		<activity android:name="com.heyzap.sdk.ads.HeyzapIncentivizedActivity"
+		          android:configChanges="screenSize|orientation" 
+		          android:theme="@android:style/Theme.Translucent" 
+		          android:hardwareAccelerated="true" />
+		<activity android:name="com.heyzap.sdk.ads.HeyzapInterstitialActivity"
+		          android:configChanges="screenSize|orientation" 
+		          android:theme="@android:style/Theme.Translucent" />
+		<activity android:name="com.heyzap.sdk.ads.MediationTestActivity" />
+		<activity android:name="com.fyber.ads.ofw.OfferWallUnityActivity"
+		          android:configChanges="orientation|screenSize" />
+		<service android:name="com.fyber.cache.CacheVideoDownloadService"
+		         android:exported="false" />
 --><!-- HEYZAP -->
 		
-<!-- APPLOVIN SDK --><!--
+<!-- APPLOVIN SDK -->
         <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" />
         <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" />
 		<meta-data
             android:name="applovin.sdk.key"
-            android:value="{{AppLovin_SDK_key}}" />
---><!-- APPLOVIN SDK -->
+            android:value="rFgH1LGOiVDxPTvxecdvDU8m5tsaKSOAh4RkPi77CK3ctyXWZAPneTWlPNKlqiwWoLEB2LJEfMsXIN2sXScB_8" />
+<!-- APPLOVIN SDK -->
 
-<!-- REVMOB --><!--
+<!-- REVMOB -->
         <activity android:name="com.revmob.FullscreenActivity"
             android:theme="@android:style/Theme.Translucent"
             android:configChanges="keyboardHidden|orientation">
         </activity>
-        <meta-data android:name="com.revmob.app.id" android:value="{{RevMobMediaID}}"/>
---><!-- REVMOB -->
+        <meta-data android:name="com.revmob.app.id" android:value="5852f8084beee1746e48ee17"/>
+<!-- REVMOB -->
 
     </application>
 
