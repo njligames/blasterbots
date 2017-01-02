@@ -185,7 +185,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>11357</string>
+                <string>13419</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -302,7 +302,7 @@
                     </dict>
                 </dict>
                 <key>scoreType</key>
-                <string>Distance</string>
+                <string>Points Collected</string>
                 <key>shareScreen</key>
                 <string>Game Field Screen</string>
                 <key>objectFrameEdgeState_0</key>

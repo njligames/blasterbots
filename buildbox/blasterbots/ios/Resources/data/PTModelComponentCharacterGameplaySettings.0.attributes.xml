@@ -93,14 +93,9 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
-                </dict>
-                <key>Ground Threshold</key>
-                <dict>
-                    <key>value</key>
                     <string>0.000000</string>
                 </dict>
-                <key>Rotation Drag</key>
+                <key>Ground Threshold</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
@@ -151,7 +146,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -204,7 +199,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -257,7 +252,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -310,7 +305,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -363,7 +358,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -416,7 +411,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -469,7 +464,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>
@@ -522,7 +517,7 @@
                 <key>Jump Timeout</key>
                 <dict>
                     <key>value</key>
-                    <string>0.050000</string>
+                    <string>0.000000</string>
                 </dict>
                 <key>Ground Threshold</key>
                 <dict>

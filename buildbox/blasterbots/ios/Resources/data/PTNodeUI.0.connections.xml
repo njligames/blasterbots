@@ -67,14 +67,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1888</string>
-                <key>modelId</key>
-                <string>1889</string>
-                <key>attributesCount</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>1895</string>
                 <key>modelId</key>
                 <string>1896</string>
@@ -86,14 +78,6 @@
                 <string>1907</string>
                 <key>modelId</key>
                 <string>1908</string>
-                <key>attributesCount</key>
-                <string>3</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3133</string>
-                <key>modelId</key>
-                <string>3134</string>
                 <key>attributesCount</key>
                 <string>3</string>
             </dict>

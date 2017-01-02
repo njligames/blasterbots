@@ -479,14 +479,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4604</string>
-                <key>sprites</key>
-                <array>
-                    <string>4605</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4610</string>
                 <key>sprites</key>
                 <array>
@@ -1075,14 +1067,6 @@
                 <key>sprites</key>
                 <array>
                     <string>5718</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5724</string>
-                <key>sprites</key>
-                <array>
-                    <string>5725</string>
                 </array>
             </dict>
             <dict>

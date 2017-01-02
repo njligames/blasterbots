@@ -892,21 +892,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4604</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>gameover</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4610</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -2003,21 +1988,6 @@
             <dict>
                 <key>id</key>
                 <string>5717</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>white</string>
-                </dict>
-                <key>duration</key>
-                <string>0.033333</string>
-                <key>animationSpeed</key>
-                <string>1.000000</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5724</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>

@@ -17,11 +17,6 @@
                     <key>value</key>
                     <string>Spawner</string>
                 </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Spawn Action</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -39,11 +34,6 @@
                     <string>0</string>
                     <key>value</key>
                     <string>Spawner</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -103,8 +93,6 @@
                 <dict>
                     <key>value</key>
                     <string>10.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -151,8 +139,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -199,8 +185,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -247,8 +231,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -295,8 +277,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -343,8 +323,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -391,8 +369,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -439,8 +415,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -487,8 +461,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -535,8 +507,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -583,8 +553,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -631,8 +599,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -679,8 +645,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -727,8 +691,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -775,8 +737,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -823,8 +783,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -871,8 +829,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -919,8 +875,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -967,8 +921,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1015,8 +967,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1063,8 +1013,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1111,8 +1059,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1159,8 +1105,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1207,8 +1151,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1255,8 +1197,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1303,8 +1243,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1351,8 +1289,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1399,8 +1335,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1447,8 +1381,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1495,8 +1427,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1543,8 +1473,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1591,8 +1519,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1639,8 +1565,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1687,8 +1611,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1735,8 +1657,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1783,8 +1703,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1831,8 +1749,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -1879,8 +1795,6 @@
                 <dict>
                     <key>value</key>
                     <string>2.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>

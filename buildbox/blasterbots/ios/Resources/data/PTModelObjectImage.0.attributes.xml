@@ -516,57 +516,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1913</string>
-                <key>className</key>
-                <string>PTModelObjectImage</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Game Over</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{319.000,858.945}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>1977</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
@@ -2251,6 +2200,11 @@
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>
@@ -2556,6 +2510,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
