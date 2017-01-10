@@ -7,18 +7,18 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>11321</string>
+                <string>15382</string>
                 <key>className</key>
-                <string>PTModelObjectBackground</string>
+                <string>PTModelObjectButtonUrl</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>white</string>
+                    <string>Url Button</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{639.900,568.000}</string>
+                    <string>{308.766,1053.269}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -32,7 +32,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,10.000}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -53,8 +53,44 @@
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kNoAction</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>URL</key>
+                <dict>
+                    <key>value</key>
+                    <string>https://www.facebook.com/Navitudes/</string>
+                </dict>
                 <key>zDepth</key>
-                <string>-100</string>
+                <string>2</string>
             </dict>
         </array>
     </dict>

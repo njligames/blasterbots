@@ -7,11 +7,16 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>1964</string>
-                <key>Asset</key>
+                <string>15382</string>
+                <key>Image</key>
                 <dict>
                     <key>value</key>
-                    <string>2277</string>
+                    <string>15383</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>15387</string>
                 </dict>
             </dict>
         </array>

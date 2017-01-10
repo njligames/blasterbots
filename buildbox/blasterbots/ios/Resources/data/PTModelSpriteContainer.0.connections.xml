@@ -1077,6 +1077,22 @@
                     <string>11320</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>15383</string>
+                <key>sprites</key>
+                <array>
+                    <string>15384</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15387</string>
+                <key>sprites</key>
+                <array>
+                    <string>15388</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

@@ -7,23 +7,23 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>217</string>
+                <string>15314</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{891.939,331.856}</string>
+                    <string>{315.833,345.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -35,28 +35,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>16</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>231</string>
+                <string>15315</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{713.939,360.856}</string>
+                    <string>{280.833,380.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -68,28 +73,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>501</string>
+                <string>17</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>584</string>
+                <string>15316</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{588.939,349.856}</string>
+                    <string>{245.833,415.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -101,28 +111,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>18</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>945</string>
+                <string>15317</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{891.939,331.856}</string>
+                    <string>{210.833,450.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -134,28 +149,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>19</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>951</string>
+                <string>15318</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{2576.779,215.247}</string>
+                    <string>{280.833,520.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -167,28 +187,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>21</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>984</string>
+                <string>15319</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-1.000,0.000}</string>
+                    <string>{315.833,555.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -200,28 +225,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>22</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1047</string>
+                <string>15320</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{1006.759,227.985}</string>
+                    <string>{350.833,590.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -233,28 +263,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>23</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1179</string>
+                <string>15321</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{3.000,-1.000}</string>
+                    <string>{385.833,625.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -266,28 +301,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>24</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1252</string>
+                <string>15322</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{891.939,331.856}</string>
+                    <string>{420.833,660.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -299,28 +339,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>25</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1318</string>
+                <string>15323</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{2576.779,215.247}</string>
+                    <string>{420.833,695.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -332,28 +377,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>26</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3376</string>
+                <string>15324</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>DieParticle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{385.833,730.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -365,28 +415,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>27</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3416</string>
+                <string>15325</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{350.833,765.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -398,28 +453,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>28</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3759</string>
+                <string>15326</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{315.833,800.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -431,28 +491,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>29</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4010</string>
+                <string>15327</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{280.833,835.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -464,28 +529,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>30</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4030</string>
+                <string>15328</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{245.833,870.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -497,28 +567,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>31</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4050</string>
+                <string>15329</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{245.833,940.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -530,28 +605,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>33</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4075</string>
+                <string>15330</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{280.833,975.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -563,28 +643,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>34</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4095</string>
+                <string>15331</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{315.833,1010.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -596,28 +681,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>35</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4121</string>
+                <string>15332</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{350.833,1045.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -629,28 +719,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>36</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4321</string>
+                <string>15333</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{385.833,1080.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -662,28 +757,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>37</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4353</string>
+                <string>15334</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{210.833,905.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -695,28 +795,33 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>32</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4373</string>
+                <string>15335</string>
                 <key>className</key>
-                <string>PTModelObjectAssetParticles</string>
+                <string>PTModelObjectAssetPowerup</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Particle</string>
+                    <string>1 point</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
+                    <string>{245.833,485.671}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{0.200,0.200}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -728,8 +833,241 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>20</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15336</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1 point</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{385.833,170.671}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.200,0.200}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15337</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1 point</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{350.833,135.671}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.200,0.200}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>10</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15338</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1 point</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{315.833,100.671}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.200,0.200}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>11</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15339</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1 point</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{280.833,65.671}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.200,0.200}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>12</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15350</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>10 points</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{48.305,1145.278}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.300,0.300}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>39</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15351</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>10 points</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{595.005,1140.278}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.300,0.300}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>41</string>
             </dict>
         </array>
     </dict>
