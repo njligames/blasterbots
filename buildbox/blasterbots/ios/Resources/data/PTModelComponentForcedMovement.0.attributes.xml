@@ -20,14 +20,14 @@
                 <key>Froce Min</key>
                 <dict>
                     <key>value</key>
-                    <string>2.800000</string>
+                    <string>1.400000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Force Max</key>
                 <dict>
                     <key>value</key>
-                    <string>5.000000</string>
+                    <string>3.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>

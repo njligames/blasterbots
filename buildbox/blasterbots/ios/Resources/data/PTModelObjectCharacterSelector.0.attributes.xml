@@ -295,33 +295,20 @@
                     <key>animationsY</key>
                     <array/>
                 </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{6.309,1.500}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -332,13 +319,6 @@
                 <dict>
                     <key>value</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Label Vertical Spacing</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Name</key>
                 <dict>
@@ -351,8 +331,6 @@
                 <dict>
                     <key>value</key>
                     <string>200.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>13</string>

@@ -1240,6 +1240,11 @@
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>
@@ -2358,6 +2363,11 @@
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>
@@ -2510,11 +2520,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
