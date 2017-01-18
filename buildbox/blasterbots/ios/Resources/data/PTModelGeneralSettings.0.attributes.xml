@@ -185,13 +185,11 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>15463</string>
+                <string>16924</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
-                        <key>leaderboardId</key>
-                        <string>distance</string>
                         <key>charboostID</key>
                         <string>5852f57243150f584f04f247</string>
                         <key>charboostSignature</key>
@@ -224,6 +222,8 @@
                         <string>Share our game!</string>
                         <key>reviewLink</key>
                         <string>https://www.facebook.com/Navitudes/</string>
+                        <key>leaderboardId</key>
+                        <string>blasterbots.points</string>
                     </dict>
                     <key>Apple Mac App Store</key>
                     <dict>

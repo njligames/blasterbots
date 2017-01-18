@@ -19,8 +19,6 @@
                 </dict>
                 <key>Froce Min</key>
                 <dict>
-                    <key>value</key>
-                    <string>1.400000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
