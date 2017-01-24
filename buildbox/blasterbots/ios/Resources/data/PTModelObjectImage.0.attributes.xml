@@ -1660,6 +1660,11 @@
                     <key>animations</key>
                     <array/>
                 </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>zDepth</key>
                 <string>0</string>
             </dict>

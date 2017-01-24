@@ -299,6 +299,10 @@
                 <dict>
                     <key>value</key>
                     <string>{6.309,1.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
