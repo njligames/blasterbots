@@ -7,25 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>1932</string>
-                <key>Default Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>1934</string>
-                </dict>
-                <key>Defeated Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>4112</string>
-                </dict>
-                <key>components</key>
-                <array>
-                    <string>1938</string>
-                    <string>2580</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>2277</string>
                 <key>Default Animation</key>
                 <dict>
@@ -179,6 +160,25 @@
                 <array>
                     <string>1947</string>
                     <string>2850</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1932</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1934</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4112</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>1938</string>
+                    <string>2580</string>
                 </array>
             </dict>
         </array>

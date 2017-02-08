@@ -145,20 +145,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4842</string>
-                <key>Image</key>
-                <dict>
-                    <key>value</key>
-                    <string>4843</string>
-                </dict>
-                <key>Image Selected</key>
-                <dict>
-                    <key>value</key>
-                    <string>4847</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4859</string>
             </dict>
             <dict>
@@ -189,6 +175,19 @@
                 <dict>
                     <key>value</key>
                     <string>4941</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19922</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19924</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>19931</string>
                 </dict>
             </dict>
         </array>

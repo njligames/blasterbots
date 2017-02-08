@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{209.900,568.000}</string>
+                    <string>{639.900,568.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -49,16 +49,6 @@
                     <string>0</string>
                 </dict>
                 <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Tiling Offset</key>
                 <dict>
                     <key>animations</key>
                     <array/>

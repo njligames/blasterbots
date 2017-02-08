@@ -21,20 +21,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4831</string>
-                <key>Sound is ON</key>
-                <dict>
-                    <key>value</key>
-                    <string>4832</string>
-                </dict>
-                <key>Sound is OFF</key>
-                <dict>
-                    <key>value</key>
-                    <string>4836</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4891</string>
                 <key>Sound is ON</key>
                 <dict>

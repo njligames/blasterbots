@@ -185,7 +185,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>19011</string>
+                <string>19942</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -214,16 +214,16 @@
                         <string>kFacebook,kAdMob,kRevMob</string>
                         <key>interstitialsOrder</key>
                         <string>kFacebook,kAdMob,kAppLovin,kRevMob</string>
+                        <key>leaderboardId</key>
+                        <string>blasterbots.points</string>
                         <key>bundleID</key>
                         <string>com.njligames.blasterbots</string>
                         <key>nameOnDevice</key>
                         <string>BlasterBots</string>
                         <key>shareMessageTemplate</key>
-                        <string>Share our game!</string>
+                        <string>Beat my Highscore in Blasterbots!</string>
                         <key>reviewLink</key>
                         <string>https://www.facebook.com/Navitudes/</string>
-                        <key>leaderboardId</key>
-                        <string>blasterbots.points</string>
                     </dict>
                     <key>Apple Mac App Store</key>
                     <dict>
@@ -304,7 +304,7 @@
                 <key>scoreType</key>
                 <string>Points Collected</string>
                 <key>shareScreen</key>
-                <string>Game Field Screen</string>
+                <string>Game Over Screen</string>
                 <key>objectFrameEdgeState_0</key>
                 <string>2</string>
                 <key>objectFrameEdgeState_1</key>

@@ -607,54 +607,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4821</string>
-                <key>sprites</key>
-                <array>
-                    <string>4822</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4825</string>
-                <key>sprites</key>
-                <array>
-                    <string>4826</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4832</string>
-                <key>sprites</key>
-                <array>
-                    <string>4833</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4836</string>
-                <key>sprites</key>
-                <array>
-                    <string>4837</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4843</string>
-                <key>sprites</key>
-                <array>
-                    <string>4844</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4847</string>
-                <key>sprites</key>
-                <array>
-                    <string>4848</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4866</string>
                 <key>sprites</key>
                 <array>
@@ -683,22 +635,6 @@
                 <key>sprites</key>
                 <array>
                     <string>4897</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4900</string>
-                <key>sprites</key>
-                <array>
-                    <string>4901</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4906</string>
-                <key>sprites</key>
-                <array>
-                    <string>4907</string>
                 </array>
             </dict>
             <dict>
@@ -1091,6 +1027,14 @@
                 <key>sprites</key>
                 <array>
                     <string>15388</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19931</string>
+                <key>sprites</key>
+                <array>
+                    <string>19932</string>
                 </array>
             </dict>
         </array>
