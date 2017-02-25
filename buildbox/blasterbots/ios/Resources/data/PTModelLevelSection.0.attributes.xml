@@ -215,19 +215,30 @@
                 <dict>
                     <key>value</key>
                     <string>9000.000000</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>10193.217773</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>1193.217773</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Play Cooldown</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -261,7 +272,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -295,7 +306,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -329,7 +340,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -363,7 +374,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -397,7 +408,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -431,7 +442,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -465,7 +476,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -499,7 +510,7 @@
                     <string>1547.095947</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -533,7 +544,7 @@
                     <string>1547.095947</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -567,7 +578,7 @@
                     <string>1547.095947</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -601,7 +612,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -635,7 +646,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -669,7 +680,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -703,7 +714,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -737,7 +748,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -758,12 +769,12 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>27959.902344</string>
+                    <string>29153.121094</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>29153.121094</string>
+                    <string>30346.339844</string>
                 </dict>
                 <key>Width</key>
                 <dict>
@@ -771,7 +782,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -792,12 +803,12 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>27959.902344</string>
+                    <string>30346.339844</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>29153.121094</string>
+                    <string>31539.558594</string>
                 </dict>
                 <key>Width</key>
                 <dict>
@@ -805,7 +816,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>
@@ -815,23 +826,23 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>19723</string>
+                <string>20351</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>GGGGGG</string>
+                    <string>20</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>27959.902344</string>
+                    <string>31539.558594</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>29153.121094</string>
+                    <string>32732.777344</string>
                 </dict>
                 <key>Width</key>
                 <dict>
@@ -841,7 +852,7 @@
                 <key>muted</key>
                 <string>0</string>
                 <key>solo</key>
-                <string>1</string>
+                <string>0</string>
                 <key>initSection</key>
                 <string>0</string>
                 <key>parentScreenId</key>
@@ -860,12 +871,12 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>29153.121094</string>
+                    <string>32732.777344</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>30346.339844</string>
+                    <string>33925.996094</string>
                 </dict>
                 <key>Width</key>
                 <dict>
@@ -873,7 +884,7 @@
                     <string>1193.217773</string>
                 </dict>
                 <key>muted</key>
-                <string>1</string>
+                <string>0</string>
                 <key>solo</key>
                 <string>0</string>
                 <key>initSection</key>

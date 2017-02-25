@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2563</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2568</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2576</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2900</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2580</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2585</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2593</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2926</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2839</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2858</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2866</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2874</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2848</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2934</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2942</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2950</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2849</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2958</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2966</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2974</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2850</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2982</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2990</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>2998</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2851</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3006</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3014</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3022</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2852</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3030</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3038</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3046</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2853</string>
+                <key>Regular Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3054</string>
+                </dict>
+                <key>Locked Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3062</string>
+                </dict>
+                <key>Selected Icon</key>
+                <dict>
+                    <key>value</key>
+                    <string>3070</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

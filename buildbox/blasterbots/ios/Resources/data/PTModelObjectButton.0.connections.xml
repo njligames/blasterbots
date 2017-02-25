@@ -17,6 +17,11 @@
                     <key>value</key>
                     <string>4598</string>
                 </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20048</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -26,6 +31,11 @@
                     <key>value</key>
                     <string>4580</string>
                 </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20017</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -34,20 +44,6 @@
                 <dict>
                     <key>value</key>
                     <string>4592</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1887</string>
-                <key>Image</key>
-                <dict>
-                    <key>value</key>
-                    <string>4806</string>
-                </dict>
-                <key>Image Selected</key>
-                <dict>
-                    <key>value</key>
-                    <string>4812</string>
                 </dict>
             </dict>
             <dict>
@@ -67,6 +63,11 @@
                     <key>value</key>
                     <string>4628</string>
                 </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20030</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -75,6 +76,11 @@
                 <dict>
                     <key>value</key>
                     <string>4622</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20031</string>
                 </dict>
             </dict>
             <dict>
@@ -85,6 +91,11 @@
                     <key>value</key>
                     <string>4616</string>
                 </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20039</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -93,6 +104,11 @@
                 <dict>
                     <key>value</key>
                     <string>4610</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20038</string>
                 </dict>
             </dict>
             <dict>
@@ -138,6 +154,11 @@
                     <key>value</key>
                     <string>4802</string>
                 </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20023</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -165,20 +186,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4936</string>
-                <key>Image</key>
-                <dict>
-                    <key>value</key>
-                    <string>4937</string>
-                </dict>
-                <key>Image Selected</key>
-                <dict>
-                    <key>value</key>
-                    <string>4941</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>19922</string>
             </dict>
             <dict>
@@ -188,6 +195,11 @@
                 <dict>
                     <key>value</key>
                     <string>19931</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20040</string>
                 </dict>
             </dict>
         </array>

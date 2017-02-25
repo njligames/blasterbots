@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{639.900,568.000}</string>
+                    <string>{0.100,568.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -32,7 +32,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,10.000}</string>
+                    <string>{7.915,10.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -52,6 +52,23 @@
                 <dict>
                     <key>animations</key>
                     <array/>
+                </dict>
+                <key>Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Tiling Offset</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>zDepth</key>
                 <string>-100</string>

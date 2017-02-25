@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_30c90d6d3fa50b5af558fdae385c946a2a2de01a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_3845405b757a3a478a85044b5882b3e249ee432a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_d0a026854a1b7d475e16c6bb233e972f61fc9f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-database-10.2.0_e1cf4d6428f580667f2b5527674561da0a9354b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_4f33c56a0b2b79cbe626b7bfbf43a4f547431ad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_948a93e79f488e8f702d2655a5985aa24d9f3627/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_eea88a0ca2237546c34282df12bfba8347d9bf50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/PTAdRevMob.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b71da6d9a3bb4144e6a0d899ace61c9a3715fa52">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/PTAdRevMob_43272c1475226f017bafc4d61a53cbc1df4f79d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_ebe237ecbd03f53c3184a3066b46483ed2327da2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_2c67ad9ed786f79d690aee0bc137ea6d8c768820/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_6e8cd7222e1a6c4dc1fd96b9e9feb76b80b06466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_a798bbe78c6b5816006320022c517e0a68a1f587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_9f05695eb5c625b2b637da7e8421ce1897d457bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_c09314ff5bb2d35422cf9d51532ea956967d885b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_fb5ef55c3eef65d97ec403a415458afc154db7af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_85a652a7b638d514c8dea9aeaba108342a61b17d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/support-v4-19.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/support-v4-19.0.1_9f3133e4631e72c5c22f37a8fbec6a3de9160b95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_121ed344459a2672715cda65961f35804cd1b228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/support-annotations-24.0.0_c9fac78bb232e4b780e539e17767260b629203cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_31ed97a0e3e79995698174438b1862222d317798/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-v4-24.0.0_e50ceff4ac9fb4472d6720f61f952788b12464c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_2ccca2e3b15fd2869d38fec6cd3d39a34fba4de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_bb0eddf965cf5d0c262792d6e20142506d6e9faa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.0.0_def2e345fc80cfb3021259a6aacadc8bdc16ca8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_348c8bc6a4f96ca17dbf4ae8bb1a222b9edc9b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/nineoldandroids-2.4.0_657223c11aeab1df30f037f8411b191b0c9e3c61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_e2fd3977bace3d9fa922af57a597e489f839c2e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_b8acf74f4c621d0406c2ca19c3819e0f131f1f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_3a24dad54a6a659643c972b176355a03f677edb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_547e6c670c01be91c064be3aa28ccb01cafb7b21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_973955500f259200ade011650e25a423b9a97c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/dagger-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/dagger-1.2.2_1ce1a53e8fad6704b53d42f096bc64a75850274e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_7d32d1e2c46e4e30298d6f06296de7a7417a1a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_9c2f7266e84780a0071fee72410d9e03aed6b2ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_54c10920b48d6d4fbc0120cc2a255935d0ac67a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_827b42cc661531d66e2b8e81475b445df8a33425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_6a1c2c10dea2b4c0f46fd8097bd70150b8fd2147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_93da5ad45d6ba5af19549dd10106288e33e49179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_fa95c8995b91d20877b3a272ffe938254950364c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_198e0675dc6d26f124195f0e953264ad4f0a1665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-common-10.2.0_d78b2e3676b813de5a6b086260e8e1f654a27250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_0b67d4962e54327977509892b933e059c7bb5297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_07830f321bacd67d4ac756793faea0187ddea203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-config-10.2.0_f4fde3efa74521289f7d82b2a1928cdfccd8cd35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_5770f64cad8b914d98bbe930f08e231df9d9bf78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_fc58e010e3d171c97f432a69ab665f3c9b5612f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_86621cb2245b206ade6d40cc8987d7bfd2f7f676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_a102727aa20c1c2f049c8d50ec2a1a360336ce72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_dc6e7cfeb1c381b2596bee7a6a280c1e9ecf3bac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-palette-v7-24.0.0_6f9942fa9e76db85b154f2aa3c110aa727b1309c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_64e6d38796a362a6b1c85606193b71d52a30cd99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_56a11a121a45603543dcd025362d8fdca36f2e13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/PTAdFacebook.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d61008a03f91df5ca473371a09ad752de7985353">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/PTAdFacebook_96245ad8e063f2b54bd30e87f019d4f74534d0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-appcompat-v7-24.0.0_799676b6f03f0b7b99ca1beb8aadc0404627b44c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/PTAdAppLovin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="853e260968f4b7661491fb9e6802ed171b8cfa3e">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/PTAdAppLovin_fab8102f0269e2d43110c06288394b7f4e18d921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_802814e5ef91bc530c1184d890b36d1abe12c88f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_c6623054421b8b860b459e04653793dd95bf59a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_88c14c234547c6f259cfea2dbd4dea8ddae9d04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_b389ce5ecc04b0f4e7de3c4103e9f7055e71771d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_eacce36be96dd26236c99ba5dde361857a289bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_75e2dd74382c92e6f1816cce472a99d9f6f7e7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-24.0.0_3cb45e5f394a87aaac0f3432220574729756f3d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_15dff221732b327688f21e3feb02b884a6a5611d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/libs/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/transforms/dex/release/folders/1000/2/javax.inject-1_83a0d219ba04d574909ced1da95bfb9310837084/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.njligames.blasterbots"
+        minSdkVersion 21
+        targetSdkVersion 23
+
+        ndk {
+            moduleName "player_shared"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets.main {
+        jni.srcDirs = []
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services:+'
+    compile files('libs/PTAdAppLovin.jar')
+    compile files('libs/PTAdFacebook.jar')
+    compile files('libs/PTAdRevMob.jar')
+    compile files('libs/dagger-1.2.2.jar')
+    compile files('libs/javax.inject-1.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/support-v4-19.0.1.jar')
+}

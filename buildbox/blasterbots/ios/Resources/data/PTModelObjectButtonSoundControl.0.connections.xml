@@ -18,19 +18,10 @@
                     <key>value</key>
                     <string>4791</string>
                 </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4891</string>
-                <key>Sound is ON</key>
+                <key>Click Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>4892</string>
-                </dict>
-                <key>Sound is OFF</key>
-                <dict>
-                    <key>value</key>
-                    <string>4896</string>
+                    <string>20021</string>
                 </dict>
             </dict>
         </array>

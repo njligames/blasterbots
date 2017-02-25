@@ -4762,6 +4762,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -5264,7 +5273,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1577</string>
+                <string>1382</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5345,7 +5354,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1578</string>
+                <string>1383</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5426,7 +5435,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1579</string>
+                <string>1384</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5507,7 +5516,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1580</string>
+                <string>1385</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5588,7 +5597,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1581</string>
+                <string>1386</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5669,7 +5678,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1582</string>
+                <string>1387</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5750,7 +5759,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1583</string>
+                <string>1388</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5831,7 +5840,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1584</string>
+                <string>1389</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5912,7 +5921,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1585</string>
+                <string>1390</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6074,7 +6083,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1586</string>
+                <string>1391</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6155,7 +6164,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1587</string>
+                <string>1392</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6236,7 +6245,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1589</string>
+                <string>1394</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6319,7 +6328,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1507</string>
+                <string>1312</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6402,7 +6411,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1508</string>
+                <string>1313</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6485,7 +6494,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1541</string>
+                <string>1346</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6568,7 +6577,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1542</string>
+                <string>1347</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6651,7 +6660,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1543</string>
+                <string>1348</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6734,7 +6743,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1544</string>
+                <string>1349</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6817,7 +6826,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1545</string>
+                <string>1350</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6900,7 +6909,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1546</string>
+                <string>1351</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6983,7 +6992,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1547</string>
+                <string>1352</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -7066,7 +7075,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1548</string>
+                <string>1353</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -7149,7 +7158,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1549</string>
+                <string>1354</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -7232,7 +7241,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1550</string>
+                <string>1355</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -7315,7 +7324,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1551</string>
+                <string>1356</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -7398,7 +7407,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1552</string>
+                <string>1357</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -7481,7 +7490,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1553</string>
+                <string>1358</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8062,7 +8071,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1510</string>
+                <string>1315</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8145,7 +8154,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1509</string>
+                <string>1314</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8228,7 +8237,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1511</string>
+                <string>1316</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8311,7 +8320,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1512</string>
+                <string>1317</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8394,7 +8403,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1513</string>
+                <string>1318</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8477,7 +8486,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1514</string>
+                <string>1319</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8560,7 +8569,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1515</string>
+                <string>1320</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8643,7 +8652,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1516</string>
+                <string>1321</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8726,7 +8735,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1517</string>
+                <string>1322</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8809,7 +8818,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1518</string>
+                <string>1323</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8892,7 +8901,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1519</string>
+                <string>1324</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -8975,7 +8984,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1520</string>
+                <string>1325</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9058,7 +9067,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1521</string>
+                <string>1326</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9141,7 +9150,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1522</string>
+                <string>1327</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9224,7 +9233,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1523</string>
+                <string>1328</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9307,7 +9316,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1524</string>
+                <string>1329</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9390,7 +9399,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1525</string>
+                <string>1330</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9473,7 +9482,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1526</string>
+                <string>1331</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9556,7 +9565,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1527</string>
+                <string>1332</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9639,7 +9648,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1528</string>
+                <string>1333</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9722,7 +9731,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1529</string>
+                <string>1334</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9805,7 +9814,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1530</string>
+                <string>1335</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9888,7 +9897,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1531</string>
+                <string>1336</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9971,7 +9980,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1532</string>
+                <string>1337</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10054,7 +10063,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1533</string>
+                <string>1338</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10137,7 +10146,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1534</string>
+                <string>1339</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10220,7 +10229,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1535</string>
+                <string>1340</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10303,7 +10312,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1536</string>
+                <string>1341</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10386,7 +10395,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1537</string>
+                <string>1342</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10469,7 +10478,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1538</string>
+                <string>1343</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10552,7 +10561,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1539</string>
+                <string>1344</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10635,7 +10644,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1540</string>
+                <string>1345</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10716,7 +10725,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1588</string>
+                <string>1393</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10797,7 +10806,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1590</string>
+                <string>1395</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -10823,11 +10832,24 @@
                 <dict>
                     <key>value</key>
                     <string>{-90.362,520.820}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,7.716}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -10838,6 +10860,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -10886,11 +10913,24 @@
                 <dict>
                     <key>value</key>
                     <string>{730.638,520.820}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,7.942}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -10901,6 +10941,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -10949,11 +10994,24 @@
                 <dict>
                     <key>value</key>
                     <string>{132.000,151.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -10964,6 +11022,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11012,11 +11075,24 @@
                 <dict>
                     <key>value</key>
                     <string>{132.000,330.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11027,6 +11103,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11075,11 +11156,24 @@
                 <dict>
                     <key>value</key>
                     <string>{132.000,509.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11090,6 +11184,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11138,11 +11237,24 @@
                 <dict>
                     <key>value</key>
                     <string>{132.000,688.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11153,6 +11265,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11201,11 +11318,24 @@
                 <dict>
                     <key>value</key>
                     <string>{132.000,867.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11216,6 +11346,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11264,11 +11399,24 @@
                 <dict>
                     <key>value</key>
                     <string>{132.000,1046.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11279,6 +11427,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11327,11 +11480,24 @@
                 <dict>
                     <key>value</key>
                     <string>{311.000,1046.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11342,6 +11508,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11390,11 +11561,24 @@
                 <dict>
                     <key>value</key>
                     <string>{490.000,1046.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11405,6 +11589,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11453,11 +11642,24 @@
                 <dict>
                     <key>value</key>
                     <string>{311.000,330.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11468,6 +11670,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11516,11 +11723,24 @@
                 <dict>
                     <key>value</key>
                     <string>{490.000,330.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11531,6 +11751,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11579,11 +11804,24 @@
                 <dict>
                     <key>value</key>
                     <string>{550.000,688.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11594,6 +11832,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11642,11 +11885,24 @@
                 <dict>
                     <key>value</key>
                     <string>{371.000,688.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -11657,6 +11913,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Asset</key>
                 <dict>

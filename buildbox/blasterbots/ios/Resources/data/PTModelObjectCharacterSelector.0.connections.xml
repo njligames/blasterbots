@@ -56,6 +56,16 @@
                     <key>value</key>
                     <string>4728</string>
                 </dict>
+                <key>Unlock Yes</key>
+                <dict>
+                    <key>value</key>
+                    <string>20042</string>
+                </dict>
+                <key>Unlock No</key>
+                <dict>
+                    <key>value</key>
+                    <string>20041</string>
+                </dict>
                 <key>Unlock Suggestion</key>
                 <dict>
                     <key>value</key>
