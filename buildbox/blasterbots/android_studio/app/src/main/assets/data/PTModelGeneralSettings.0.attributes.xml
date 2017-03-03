@@ -266,6 +266,8 @@
                         <string>Beat my Highscore in Blasterbots!</string>
                         <key>reviewLink</key>
                         <string>https://www.facebook.com/Navitudes/</string>
+                        <key>versionCode</key>
+                        <string>1</string>
                     </dict>
                     <key>Amazon App Store</key>
                     <dict>

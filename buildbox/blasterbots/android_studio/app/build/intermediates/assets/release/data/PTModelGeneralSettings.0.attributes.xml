@@ -185,7 +185,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>25800</string>
+                <string>25802</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -263,9 +263,11 @@
                         <key>nameOnDevice</key>
                         <string>BlasterBots</string>
                         <key>shareMessageTemplate</key>
-                        <string>Share our game!</string>
+                        <string>Beat my Highscore in Blasterbots!</string>
                         <key>reviewLink</key>
                         <string>https://www.facebook.com/Navitudes/</string>
+                        <key>versionCode</key>
+                        <string>1</string>
                     </dict>
                     <key>Amazon App Store</key>
                     <dict>

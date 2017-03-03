@@ -290,10 +290,6 @@
                 <dict>
                     <key>value</key>
                     <string>{318.752,593.873}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -309,11 +305,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Label Visibility</key>
                 <dict>

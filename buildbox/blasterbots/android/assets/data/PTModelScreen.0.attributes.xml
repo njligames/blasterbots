@@ -69,15 +69,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Ad Banner Freq.</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -121,15 +117,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Ad Banner Freq.</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -211,15 +203,11 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Ad Banner Freq.</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -258,16 +246,6 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kAdMob</string>
-                </dict>
-                <key>Ad Interstitials Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
