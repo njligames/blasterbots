@@ -1,10 +1,10 @@
 [
     {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
-        "source": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_linear_out_slow_in.xml"
+        "source": "/Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/res/interpolator/mr_linear_out_slow_in.xml"
     },
     {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
-        "source": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_fast_out_slow_in.xml"
+        "source": "/Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/res/interpolator/mr_fast_out_slow_in.xml"
     }
 ]

@@ -1161,13 +1161,8 @@
 				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
-					"-lAppLovinSDK",
 					"-framework",
 					GoogleMobileAds,
-					"-framework",
-					RevMobAds,
-					"-framework",
-					FBAudienceNetwork,
 					"-framework",
 					AdSupport,
 				);
@@ -1231,13 +1226,8 @@
 				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
-					"-lAppLovinSDK",
 					"-framework",
 					GoogleMobileAds,
-					"-framework",
-					RevMobAds,
-					"-framework",
-					FBAudienceNetwork,
 					"-framework",
 					AdSupport,
 				);

@@ -58,12 +58,12 @@
                 <key>Ad Interstitial</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kAdMob</string>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kAdMob</string>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Ad Interstitials Freq.</key>
                 <dict>
@@ -120,14 +120,14 @@
                 <key>Ad Interstitials Freq.</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>4.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
                 <key>Ad Banner Freq.</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>4.000000</string>
                     <key>animations</key>
                     <array/>
                 </dict>
@@ -200,12 +200,12 @@
                 <key>Ad Interstitial</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kAdMob</string>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kAdMob</string>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Ad Interstitials Freq.</key>
                 <dict>

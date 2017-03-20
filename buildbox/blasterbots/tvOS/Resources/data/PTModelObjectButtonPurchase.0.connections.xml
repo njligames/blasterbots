@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>4914</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>4919</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>4915</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20035</string>
+                </dict>
+                <key>Purchase Complete</key>
+                <dict>
+                    <key>value</key>
+                    <string>20043</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20044</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>4919</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>4915</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20035</string>
+                </dict>
+                <key>Purchase Complete</key>
+                <dict>
+                    <key>value</key>
+                    <string>20043</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>20046</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>4919</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>4915</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>20035</string>
+                </dict>
+                <key>Purchase Complete</key>
+                <dict>
+                    <key>value</key>
+                    <string>20043</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

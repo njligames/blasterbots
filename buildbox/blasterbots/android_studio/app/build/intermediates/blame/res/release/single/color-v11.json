@@ -1,10 +1,10 @@
 [
     {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/Users/jamesfolk/.android/build-cache/5f93b6eebea2e454601ae2f1820aabd695fccda3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/Users/jamesfolk/.android/build-cache/5f93b6eebea2e454601ae2f1820aabd695fccda3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -8,19 +8,19 @@
             <dict>
                 <key>id</key>
                 <string>99</string>
-                <key>Pause</key>
+                <key>Game Over</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>1895</string>
+                    <string>1907</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>
                     <string>true</string>
                 </dict>
-                <key>Game Over</key>
+                <key>Pause</key>
                 <dict>
                     <key>connectedModelId</key>
-                    <string>1907</string>
+                    <string>1895</string>
                     <key>attributeName</key>
                     <string>Load</string>
                     <key>isAction</key>

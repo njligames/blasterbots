@@ -577,6 +577,19 @@
                 <key>fileFormat</key>
                 <string>mp3</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>25822</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>click-metallic_zkSuY_Ed.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
         </array>
     </dict>
 </plist>

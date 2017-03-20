@@ -17,63 +17,63 @@ ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/a
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:7:5-73
-MERGED from [com.android.support:multidex:1.0.1] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/10.2.0/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:multidex:1.0.1] /Users/jamesfolk/.android/build-cache/6146c9e6907a5f83701aa869a089050d3172d726/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.2.0] /Users/jamesfolk/.android/build-cache/9e8051b8b1f332f826c5fc11f88ef953ceeb13a6/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/jamesfolk/.android/build-cache/97b1100da739af43838dffe842c233df1e025987/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/54bc8f34bb9a6187a4303e89b24b65064ec4b96a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /Users/jamesfolk/.android/build-cache/5be19a17336df066571733609bb532b0444d3c6f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/jamesfolk/.android/build-cache/3b2b048b46f36f44451896dc7ca3ddeee2e51568/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/jamesfolk/.android/build-cache/36610f8171b83a25dd26ad27560024e6c62eb558/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/jamesfolk/.android/build-cache/5f93b6eebea2e454601ae2f1820aabd695fccda3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/jamesfolk/.android/build-cache/49c29f82374c3872b3aa9edb8b3132f0f9451464/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/jamesfolk/.android/build-cache/704b20cc347a0c37ff752500cdaa5015dba0d9ca/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/jamesfolk/.android/build-cache/cee76a3ed88b5229b3938852046800eb8d6c51cc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/jamesfolk/.android/build-cache/de1377a70f137749d4d50242bd83df9efeb7720f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/jamesfolk/.android/build-cache/f57e5dd7847a6fa8a6ab4f69ab4d95efb9644f96/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/jamesfolk/.android/build-cache/b651d09d112c3cce848ad64ec6fc1fc8827d7d4b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/jamesfolk/.android/build-cache/5893e0c9968182eb25be2ac3a8dc9800731ca8e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /Users/jamesfolk/.android/build-cache/541b36a151db842ca445e9ff9b0070ae60bdad44/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /Users/jamesfolk/.android/build-cache/7cee61f020c4538613ffffec75efd65406a270cf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /Users/jamesfolk/.android/build-cache/b7b3cf0f0a809ea04f11796af4fb8c82cac6cc37/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /Users/jamesfolk/.android/build-cache/b81da7906b3549baa61a8cb6ed52f05a97f74212/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/jamesfolk/.android/build-cache/1f3da1c9c35a3d8899b01ebf1517d3884a57fefd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/jamesfolk/.android/build-cache/9d269153a40076b4af3ce5eebc2998fc6eb72873/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/jamesfolk/.android/build-cache/7cf1e5020a36c4c1b0e02ddf806aa86ec10acac7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/jamesfolk/.android/build-cache/631c614c879bb0c7d380640a3e1b8b80286c4894/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/.android/build-cache/564d670e8b69e624eda62779b88ee5cb1d6f1b95/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/jamesfolk/.android/build-cache/1682dcd2ff8c85983a0706d24373e027ddea6ca9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/.android/build-cache/eec202911d487092b0a1eeebbb23de20980de628/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /Users/jamesfolk/.android/build-cache/775c739c9a1c8929b487f34011e4d763a584d654/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/jamesfolk/.android/build-cache/3065a1eb242aa0ee1de6e70ffb863a7dd14179e7/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/jamesfolk/.android/build-cache/2fbf09da7b5020d68a282c3913bef05b02ad397c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/jamesfolk/.android/build-cache/6daacc6dcd657b2cfe2c91daa47cf0adee2911c8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/jamesfolk/.android/build-cache/1a33aa87541279307dfe9432838b432b23914a89/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/jamesfolk/.android/build-cache/64c5b179ddf363f5e664aa7b6c5e0b392f7bbbe9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/jamesfolk/.android/build-cache/63df4e5d5b13d62e56c0ac99a5c902714e7cfd01/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /Users/jamesfolk/.android/build-cache/24a88b83d664783c921d5b4440b44ecc03163814/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/jamesfolk/.android/build-cache/6380f5d904c203e57b413a723f4d769279ed68be/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/9a5716c8c1484503c09b623b84fd498b754c9506/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/jamesfolk/.android/build-cache/f94f62b7c89e841ef16c2cdc04aef55c970472f7/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /Users/jamesfolk/.android/build-cache/c7e090d2701405ec217229e81fd274049bcd3f89/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/jamesfolk/.android/build-cache/9041802c1ae2aa11f3abc6c8489d8324f9200c08/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/jamesfolk/.android/build-cache/1b91af6c944af7a46bd8ae423f7f720a010119b5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/jamesfolk/.android/build-cache/efadd6b752fb42b7515b6b56b96371e88adbdf90/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesfolk/.android/build-cache/8d7f4d37d0a8369e3fae871672ab9d5a5ddbab8b/output/AndroidManifest.xml:17:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/jamesfolk/.android/build-cache/5f93b6eebea2e454601ae2f1820aabd695fccda3/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:7:42-71
 		INJECTED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml
@@ -84,51 +84,51 @@ MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesf
 		INJECTED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:9:5-76:19
-MERGED from [com.google.android.gms:play-services:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/10.2.0/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services:10.2.0] /Users/jamesfolk/.android/build-cache/9e8051b8b1f332f826c5fc11f88ef953ceeb13a6/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/54bc8f34bb9a6187a4303e89b24b65064ec4b96a/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /Users/jamesfolk/.android/build-cache/3b2b048b46f36f44451896dc7ca3ddeee2e51568/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/jamesfolk/.android/build-cache/36610f8171b83a25dd26ad27560024e6c62eb558/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/jamesfolk/.android/build-cache/5f93b6eebea2e454601ae2f1820aabd695fccda3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/jamesfolk/.android/build-cache/49c29f82374c3872b3aa9edb8b3132f0f9451464/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/jamesfolk/.android/build-cache/704b20cc347a0c37ff752500cdaa5015dba0d9ca/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/jamesfolk/.android/build-cache/cee76a3ed88b5229b3938852046800eb8d6c51cc/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /Users/jamesfolk/.android/build-cache/de1377a70f137749d4d50242bd83df9efeb7720f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /Users/jamesfolk/.android/build-cache/f57e5dd7847a6fa8a6ab4f69ab4d95efb9644f96/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/jamesfolk/.android/build-cache/b651d09d112c3cce848ad64ec6fc1fc8827d7d4b/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /Users/jamesfolk/.android/build-cache/5893e0c9968182eb25be2ac3a8dc9800731ca8e5/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /Users/jamesfolk/.android/build-cache/1f3da1c9c35a3d8899b01ebf1517d3884a57fefd/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /Users/jamesfolk/.android/build-cache/9d269153a40076b4af3ce5eebc2998fc6eb72873/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /Users/jamesfolk/.android/build-cache/7cf1e5020a36c4c1b0e02ddf806aa86ec10acac7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/jamesfolk/.android/build-cache/631c614c879bb0c7d380640a3e1b8b80286c4894/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/.android/build-cache/564d670e8b69e624eda62779b88ee5cb1d6f1b95/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /Users/jamesfolk/.android/build-cache/1682dcd2ff8c85983a0706d24373e027ddea6ca9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/.android/build-cache/eec202911d487092b0a1eeebbb23de20980de628/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /Users/jamesfolk/.android/build-cache/3065a1eb242aa0ee1de6e70ffb863a7dd14179e7/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/jamesfolk/.android/build-cache/2fbf09da7b5020d68a282c3913bef05b02ad397c/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /Users/jamesfolk/.android/build-cache/6daacc6dcd657b2cfe2c91daa47cf0adee2911c8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /Users/jamesfolk/.android/build-cache/1a33aa87541279307dfe9432838b432b23914a89/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /Users/jamesfolk/.android/build-cache/64c5b179ddf363f5e664aa7b6c5e0b392f7bbbe9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /Users/jamesfolk/.android/build-cache/63df4e5d5b13d62e56c0ac99a5c902714e7cfd01/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /Users/jamesfolk/.android/build-cache/6380f5d904c203e57b413a723f4d769279ed68be/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/9a5716c8c1484503c09b623b84fd498b754c9506/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /Users/jamesfolk/.android/build-cache/f94f62b7c89e841ef16c2cdc04aef55c970472f7/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /Users/jamesfolk/.android/build-cache/9041802c1ae2aa11f3abc6c8489d8324f9200c08/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /Users/jamesfolk/.android/build-cache/1b91af6c944af7a46bd8ae423f7f720a010119b5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/jamesfolk/.android/build-cache/efadd6b752fb42b7515b6b56b96371e88adbdf90/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesfolk/.android/build-cache/8d7f4d37d0a8369e3fae871672ab9d5a5ddbab8b/output/AndroidManifest.xml:19:5-21:19
 	android:label
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:9:18-50
 	android:allowBackup
@@ -137,7 +137,7 @@ MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesf
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:10:9-38
 meta-data#com.google.android.gms.version
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:13:9-14:69
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/jamesfolk/.android/build-cache/8d7f4d37d0a8369e3fae871672ab9d5a5ddbab8b/output/AndroidManifest.xml:20:9-121
 	android:value
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:14:13-66
 	android:name
@@ -170,17 +170,9 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:25:27-74
-activity#com.facebook.ads.InterstitialAdActivity
-ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:30:9-32:51
-	android:screenOrientation
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:32:13-49
-	android:configChanges
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:31:13-63
-	android:name
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:30:19-73
 activity#com.google.android.gms.ads.AdActivity
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:36:9-38:64
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:25:9-232
 	android:configChanges
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:37:13-122
 	android:theme
@@ -195,34 +187,6 @@ ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/a
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:42:14-72
 	android:name
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:40:14-70
-activity#com.applovin.adview.AppLovinInterstitialActivity
-ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:61:9-85
-	android:name
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:61:19-82
-activity#com.applovin.adview.AppLovinConfirmationActivity
-ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:62:9-85
-	android:name
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:62:19-82
-meta-data#applovin.sdk.key
-ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:63:3-65:118
-	android:value
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:65:13-115
-	android:name
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:64:13-44
-activity#com.revmob.FullscreenActivity
-ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:69:9-72:20
-	android:configChanges
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:71:13-63
-	android:theme
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:70:13-61
-	android:name
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:69:19-63
-meta-data#com.revmob.app.id
-ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:73:9-95
-	android:value
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:73:53-93
-	android:name
-		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:73:20-52
 supports-screens
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:78:5-81:39
 	android:largeScreens
@@ -235,18 +199,18 @@ ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/a
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:80:9-34
 uses-permission#android.permission.INTERNET
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:83:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/54bc8f34bb9a6187a4303e89b24b65064ec4b96a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /Users/jamesfolk/.android/build-cache/b651d09d112c3cce848ad64ec6fc1fc8827d7d4b/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/.android/build-cache/564d670e8b69e624eda62779b88ee5cb1d6f1b95/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/.android/build-cache/eec202911d487092b0a1eeebbb23de20980de628/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/9a5716c8c1484503c09b623b84fd498b754c9506/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:83:22-64
 uses-permission#com.android.vending.BILLING
@@ -255,15 +219,15 @@ ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/a
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:84:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:85:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/54bc8f34bb9a6187a4303e89b24b65064ec4b96a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /Users/jamesfolk/.android/build-cache/2fbf09da7b5020d68a282c3913bef05b02ad397c/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/9a5716c8c1484503c09b623b84fd498b754c9506/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:85:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
@@ -283,220 +247,220 @@ ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/a
 	android:name
 		ADDED from /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/src/main/AndroidManifest.xml:89:22-72
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/jamesfolk/.android/build-cache/d9fe09ace44b10a40870b8e24fb3181281f176c2/output/AndroidManifest.xml:26:19-91
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/AndroidManifest.xml:24:5-67
+ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/54bc8f34bb9a6187a4303e89b24b65064ec4b96a/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/9a5716c8c1484503c09b623b84fd498b754c9506/output/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/54bc8f34bb9a6187a4303e89b24b65064ec4b96a/output/AndroidManifest.xml:24:22-65
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /Users/jamesfolk/.android/build-cache/abd70d3517ab8199c592c2567f1f0e469789abf5/output/AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /Users/jamesfolk/.android/build-cache/0147162b624addc538f6d8b28e008fd643b830e6/output/AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /Users/jamesfolk/.android/build-cache/3ca413c494726de31c1c7c860176d51783f4eb48/output/AndroidManifest.xml:25:25-75
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/.android/build-cache/564d670e8b69e624eda62779b88ee5cb1d6f1b95/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /Users/jamesfolk/.android/build-cache/eec202911d487092b0a1eeebbb23de20980de628/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /Users/jamesfolk/.android/build-cache/564d670e8b69e624eda62779b88ee5cb1d6f1b95/output/AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /Users/jamesfolk/.android/build-cache/6649027358e9a6bd6af1907059d215bb0372be2b/output/AndroidManifest.xml:30:27-75
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/jamesfolk/.android/build-cache/28161691642cc329f4067d68a9ab2ec2dbf39a65/output/AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/jamesfolk/.android/build-cache/078ade9077b3d6719884139cc76dd18d31940e88/output/AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:30:9-36:20
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:30:9-36:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:31:13-35:29
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:31:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:32:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:33:17-85
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:33:17-85
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:33:25-83
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:33:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:34:17-60
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:34:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:34:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:34:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:40:9-119
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:40:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:40:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:40:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:40:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:40:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:44:9-48:19
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:44:9-48:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:44:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:44:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:44:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:44:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:45:13-47:29
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:45:13-47:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:45:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:45:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:46:17-79
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:46:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/AndroidManifest.xml:46:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/jamesfolk/.android/build-cache/4509fc90e2e740ad0ce21a67cb7208c2512ccbc9/output/AndroidManifest.xml:46:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/jamesfolk/.android/build-cache/0bdca4928f401fac5ce61ce2b36d60edcfe3af4b/output/AndroidManifest.xml:6:79-143
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/jamesfolk/.android/build-cache/e63965bec59ae53619af48a42bc8bc0556ab6953/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/AndroidManifest.xml:19:19-85

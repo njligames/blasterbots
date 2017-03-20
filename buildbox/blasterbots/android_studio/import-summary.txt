@@ -42,9 +42,6 @@ Eclipse projects. Here's how the projects were restructured:
 * AndroidManifest.xml => app/src/main/AndroidManifest.xml
 * assets/ => app/src/main/assets/
 * jni/ => app/src/main/jni/
-* libs/PTAdAppLovin.jar => app/libs/PTAdAppLovin.jar
-* libs/PTAdFacebook.jar => app/libs/PTAdFacebook.jar
-* libs/PTAdRevMob.jar => app/libs/PTAdRevMob.jar
 * libs/armeabi-v7a/libplayer.so => app/src/main/jniLibs/armeabi-v7a/libplayer.so
 * libs/armeabi/libplayer.so => app/src/main/jniLibs/armeabi/libplayer.so
 * libs/dagger-1.2.2.jar => app/libs/dagger-1.2.2.jar

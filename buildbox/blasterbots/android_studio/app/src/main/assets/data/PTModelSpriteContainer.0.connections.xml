@@ -989,6 +989,14 @@
                     <string>19932</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>25818</string>
+                <key>sprites</key>
+                <array>
+                    <string>25819</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

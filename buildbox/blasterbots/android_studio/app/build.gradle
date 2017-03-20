@@ -1,9 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        blasterbots {
+            keyAlias 'blasterbots'
+            keyPassword 'IgTiFmEl1$'
+            storeFile file('/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/blasterbots_release.jks')
+            storePassword 'IgTiFmEl1$'
+        }
+    }
     compileSdkVersion 23
     buildToolsVersion "25.0.2"
-
     defaultConfig {
         applicationId "com.njligames.blasterbots"
         minSdkVersion 20
@@ -14,7 +21,6 @@ android {
             moduleName "player_shared"
         }
     }
-
     buildTypes {
         release {
             minifyEnabled false
@@ -31,9 +37,6 @@ android {
 
 dependencies {
     compile ('com.google.android.gms:play-services:+'){exclude module: 'support-v4'}
-    compile files('libs/PTAdAppLovin.jar')
-    compile files('libs/PTAdFacebook.jar')
-    compile files('libs/PTAdRevMob.jar')
     compile files('libs/dagger-1.2.2.jar')
     compile files('libs/javax.inject-1.jar')
     compile files('libs/nineoldandroids-2.4.0.jar')

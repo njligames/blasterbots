@@ -929,7 +929,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1426,6 +1426,130 @@
                 </dict>
                 <key>zDepth</key>
                 <string>13</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>25815</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Navigation Button 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{262.603,924.226}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoAction</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>25817</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Navigation Button 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.580,480.870}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kRestorePurchasesButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
             </dict>
         </array>
     </dict>

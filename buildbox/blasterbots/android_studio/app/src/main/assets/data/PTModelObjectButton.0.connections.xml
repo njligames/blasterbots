@@ -202,6 +202,24 @@
                     <string>20040</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>25815</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>25817</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>25818</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>25822</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

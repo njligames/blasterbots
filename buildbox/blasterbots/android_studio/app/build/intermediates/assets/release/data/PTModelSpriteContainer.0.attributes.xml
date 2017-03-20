@@ -1850,6 +1850,21 @@
                 <key>animationSpeed</key>
                 <string>1.000000</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>25818</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>restore_button</string>
+                </dict>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
         </array>
     </dict>
 </plist>
