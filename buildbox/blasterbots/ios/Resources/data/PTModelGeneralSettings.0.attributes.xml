@@ -185,7 +185,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>25822</string>
+                <string>25894</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -262,6 +262,10 @@
                         <string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv2E3Sm1jG+19/fuaNahVlaq9bMnq4nmXAVzR6RGIXOZI2tL3hy8x3sj8p7N0I6ecw4FUNJPk471TcAWOUeJdiNHLIvtVkgHFjlX/WSsMt+eWG3ReS5Cx+CInpQolMq9BXHILrsfg8W+2nZ5aureCeXG5IU7J89Yy4dHHAWmcv5b6V7EEvJwFV1YOWgXt0Mjvyy8bJbkfgYYyLBARPk5+qYisfCO3uAULvHqVniP9HQ+5q4P5lAahyvK26lBTN6rfGhdj2gLXmBqBxCTvieGjHFrRiUZa0LA1qBZTRv2u8qoDderaf6uIT+uvTMHij9/oYVBy3+EHfutGYepm2yup+wIDAQAB</string>
                         <key>googlePlayId</key>
                         <string>1045837556578</string>
+                        <key>bannersOrder</key>
+                        <string>kAdMob</string>
+                        <key>interstitialsOrder</key>
+                        <string>kAdMob</string>
                         <key>bundleID</key>
                         <string>com.njligames.blasterbots</string>
                         <key>nameOnDevice</key>
@@ -271,11 +275,7 @@
                         <key>reviewLink</key>
                         <string>https://www.facebook.com/Navitudes/</string>
                         <key>versionCode</key>
-                        <string>2</string>
-                        <key>bannersOrder</key>
-                        <string>kAdMob</string>
-                        <key>interstitialsOrder</key>
-                        <string>kAdMob</string>
+                        <string>5</string>
                     </dict>
                     <key>Amazon App Store</key>
                     <dict>
@@ -295,10 +295,16 @@
                     </dict>
                     <key>Apple TV App Store</key>
                     <dict>
-                        <key>reviewLink</key>
-                        <string></string>
+                        <key>bundleID</key>
+                        <string>com.njligames.blasterbots.tvos</string>
                         <key>nameOnDevice</key>
                         <string>blasterbots</string>
+                        <key>shareMessageTemplate</key>
+                        <string>Beat my Highscore in Blasterbots!</string>
+                        <key>reviewLink</key>
+                        <string>https://www.facebook.com/Navitudes/</string>
+                        <key>leaderboardId</key>
+                        <string>blasterbots.points</string>
                     </dict>
                     <key>Steam Store</key>
                     <dict>

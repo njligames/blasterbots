@@ -8,12 +8,12 @@
         "source": "/Users/jamesfolk/.android/build-cache/5f93b6eebea2e454601ae2f1820aabd695fccda3/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/ic_expand.xml",
-        "source": "/Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/res/drawable/ic_expand.xml"
-    },
-    {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_pause.xml",
         "source": "/Users/jamesfolk/.android/build-cache/27278e93c711e7cc3301732ee6c57d46628d46e1/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/ic_expand.xml",
+        "source": "/Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/res/drawable/ic_expand.xml"
     },
     {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
@@ -100,12 +100,12 @@
         "source": "/Users/jamesfolk/.android/build-cache/6a112afcab81788da13d490c9640d16689b7c5fb/output/res/drawable/mr_ic_play_light.xml"
     },
     {
-        "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
         "source": "/Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/jamesfolk/.android/build-cache/89cd3dee6a05b6b67d6fbcce922ce71e3d63d102/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/jamesfolk/Dropbox/Developer/blasterbots/buildbox/blasterbots/android_studio/app/build/intermediates/res/merged/release/drawable/mr_ic_audiotrack_light.xml",

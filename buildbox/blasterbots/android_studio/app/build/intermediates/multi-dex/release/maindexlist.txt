@@ -248,7 +248,9 @@ com/google/android/gms/internal/zzmk$zza.class
 com/google/android/gms/internal/zzix.class
 com/google/android/gms/ads/internal/overlay/zzx.class
 android/support/v7/widget/MenuPopupWindow.class
+com/applovin/nativeAds/AppLovinNativeAd.class
 com/google/android/gms/internal/zzpp.class
+com/facebook/ads/a/r.class
 com/google/android/gms/internal/zzgm.class
 com/google/android/gms/internal/zzkm.class
 com/google/android/gms/ads/internal/zzw.class
@@ -782,6 +784,7 @@ com/google/android/gms/drive/query/Query.class
 com/google/android/gms/fitness/data/zzr.class
 com/google/android/gms/internal/zzhv.class
 com/google/android/gms/wallet/WalletConstants.class
+com/facebook/ads/AdError.class
 android/support/v7/widget/ViewUtils.class
 com/google/android/gms/internal/zzaex.class
 com/google/android/gms/ads/internal/overlay/zze.class
@@ -814,4 +817,5 @@ com/google/android/gms/drive/DriveStatusCodes.class
 com/google/android/gms/common/api/CommonStatusCodes.class
 com/google/ads/mediation/customevent/CustomEventBanner.class
 com/google/android/gms/common/api/Result.class
+com/applovin/sdk/AppLovinAdService.class
 com/google/android/gms/internal/zzji.class
